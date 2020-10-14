@@ -1,5 +1,8 @@
 _repo: Os-contos-do-tio-Joaquim_63317
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63317-h/images/cover.jpg
 creator:
   author:
     agent_name: Paganino, Rodrigo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52375
     wikipedia: https://pt.wikipedia.org/wiki/Rodrigo_Paganino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63317#Os-contos-do-tio-Joaquim
 gutenberg_issued: '2020-09-27'
 gutenberg_type: Text
 identifiers:
