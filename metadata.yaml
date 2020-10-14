@@ -1,0 +1,31 @@
+_repo: Os-contos-do-tio-Joaquim_63317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paganino, Rodrigo
+    alias: Paganino, Rodrigo Botelho da Fonseca
+    birthdate: 1835
+    deathdate: 1863
+    gutenberg_agent_id: '52375'
+    url: http://www.gutenberg.org/2009/agents/52375
+    wikipedia: https://pt.wikipedia.org/wiki/Rodrigo_Paganino
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63317'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Portuguese fiction -- 19th century'
+- GITenberg
+tableOfContents: O tio Joaquim -- O romance de um sceptico d’aldeia -- A proposito
+  da missa do dia -- Os domingos de fóra da terra -- Os retratos de familia -- O fructo
+  prohibido -- A gallinha da minha visinha -- O guarda do cemiterio -- Como se ganha
+  uma demanda -- O sexto mandamento -- O Thomaz dos passarinhos -- A historia do narrador.
+title: Os contos do tio Joaquim
+url: http://www.gutenberg.org/ebooks/63317
